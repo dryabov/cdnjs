@@ -8,7 +8,7 @@
     "keywords": ["effect", "image", "images", "jquery", "jquerymobile", "lazy", "lazyload", "load", "media", "mobile", "performance", "responsive", "speed", "video", "vimeo", "youtube"],
     "maintainers": [{
         "name": "RESS.io",
-        "web": "http://ress.io/"
+        "web": "http://ressio.github.io/"
     }],
     "repositories": [{
         "type": "git",
